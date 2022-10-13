@@ -71,6 +71,7 @@ video {
     z-index: 10000;
     top: 20%;
     left: 5%;
+    overflow: scroll;
 }
 
 #reader {
